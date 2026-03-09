@@ -134,7 +134,7 @@ No smartphone needed! Rural users can call our toll-free number and get guidance
 
 | Name | Role | Module |
 |------|------|--------|
-| 👨💻 Team Leader | Agriculture Module | Krishi Mitra |
+| 👨💻 Pranit | Agriculture Module | Krishi Mitra |
 | 👩💻 Vaishnavi | Healthcare Module | Arogya AI |
 | 👨🎓 Vighnesh Naik | Education & Startup Module | Vidya AI |
 
