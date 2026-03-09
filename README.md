@@ -155,15 +155,7 @@ npm run dev
 
 ---
 
-## 📁 Related Repositories
-
-- 🌾 Agriculture: https://github.com/vighneshNaik15/sarthi-ai
-- 🏥 Healthcare: https://github.com/vighneshNaik15/arogya-ai
-- 🎓 Education: https://github.com/vighneshNaik15/vidya-ai
-
----
-
-## 📄 License
+##  License
 
 Built for AI for Bharat Hackathon 2025.
 © 2025 Community AI Hub Team. All rights reserved.
